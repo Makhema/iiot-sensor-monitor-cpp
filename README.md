@@ -28,3 +28,7 @@ src/
   * C++
   * File Handling
   * Binary File Processing
+
+Problem Solver/Author:
+
+ Motsoetsoana Makhema
