@@ -29,6 +29,11 @@ src/
   * File Handling
   * Binary File Processing
 
+⚠️Note
+  * Input file dimension must match the initialized grid size.
+  * Only active sensors are processed in calculations and exports.
+  
+
 Problem Solver/Author:
 
  Motsoetsoana Makhema
