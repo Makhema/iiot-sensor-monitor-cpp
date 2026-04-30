@@ -16,3 +16,15 @@ src/
  ├── Header.h 
  
  └── IIoTMonitor.cpp
+
+
+⚙️ Features
+  * Read sensor data from the text file
+  * Export active sensor to binary file
+  * Calculate average of active sensor readings
+  * File Handling (text and binary)
+
+🧠 Tools used
+  * C++
+  * File Handling
+  * Binary File Processing
