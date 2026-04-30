@@ -10,4 +10,9 @@ This project is an Industrial Internet of Things(IIoT) sensor monitoring system 
 src/
 
  |
- |
+
+ ├── main.cpp
+ 
+ ├── Header.h 
+ 
+ └── IIoTMonitor.cpp
